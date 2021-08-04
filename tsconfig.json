@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "esModuleInterop": true,
+    "types": ["google.maps"],
+    "skipLibCheck": true,
+    "lib": ["esnext", "dom"]
+  }
+}
