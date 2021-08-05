@@ -30,7 +30,7 @@ const App: FC = () => {
     <article>
       <div style={{ height: "100vh", width: "100%" }}>
         <GoogleMapReact
-          bootstrapURLKeys={{ key: "AIzaSyCKzJWuwVdm2dkfFHJDhM9wrr8HUxJa_g0" }}
+          bootstrapURLKeys={{ key: "" }}
           defaultCenter={defaultProps.center}
           defaultZoom={defaultProps.zoom}
           center={center}
